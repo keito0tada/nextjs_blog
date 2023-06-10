@@ -1,0 +1,8 @@
+.borderCircle {
+  border-radius: 9999px;
+}
+
+.headingMd {
+    line-height: 1rem;
+    letter-spacing: 0.05rem;
+}
